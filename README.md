@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-My Name is Bukola Testimony. I am a Software Engineer with basic interest in Cloud Computing. I love to solve problems and also have fun while learning new things. I am an AWS Certified Cloud Practitioner(CLF-CO1). View my badge here: 
+My Name is Bukola Testimony. I am a HR professional and a Software Engineer with basic interest in Cloud Computing. I love to solve problems and also have fun while learning new things. I am an AWS Certified Cloud Practitioner(CLF-CO1). View my badge here: 
  <a href="https://www.credly.com/badges/40c68c84-ef41-4b91-be39-2cd9b8d06391/email">My Badge</a>. 
  
  --------------
  
  
- **As a beginner, some of my languages are:** Python, Javascript, HTML, CSS and Basic Liunx bash Scripting.
+ **As a beginner, some of my languages are:** Python, Javascript, HTML, CSS and Basic Linux bash Scripting.
  
   --------------
   

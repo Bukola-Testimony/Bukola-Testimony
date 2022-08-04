@@ -1,14 +1,15 @@
-<h1 align="center">Hi there 👋, I am Bukola Testimony</h1>
+<h1 align="center">Hi there 👋, I'm Bukola Testimony</h1>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=github,aws,html,css,javascript,python,linux,vscode" alt="Tech Stack" /> </p>
 
-<h3 align="center">I am a HR professional and a Software Engineer with basic interest in Cloud Computing. I love to solve problems and also have fun while learning new things. I am an AWS Certified Cloud Practitioner(CLF-CO1). View my badge here: 
+<h3 align="left">I am a HR professional and a Software Engineer with basic interest in Cloud Computing. I love to solve problems and also have fun while learning new things. I am an AWS Certified Cloud Practitioner(CLF-CO1). View my badge here: 
  <a href="https://www.credly.com/badges/40c68c84-ef41-4b91-be39-2cd9b8d06391/email">My Badge</a>. </h3>
  
  
  --------------
  
  
- **As a beginner, some of my languages are:** Python, Javascript, HTML, CSS and Basic Linux bash Scripting.
+ ### As a beginner, some of my languages are: Python, Javascript, HTML, CSS and Basic Linux bash Scripting.
  
   --------------
   
@@ -21,5 +22,5 @@
 
  --------------
  
- - Learn more about on my [website](https://bukola-testimony.github.io/My-Portfolio-website/)
+ ### Learn more about on my [website](https://bukola-testimony.github.io/My-Portfolio-website/)
  

@@ -24,7 +24,7 @@
 
  --------------
  
- ### Learn more about on my [website](https://bukola-testimony.github.io/My-Portfolio-website/)
+ ### Learn more about me on my [website](https://bukola-testimony.github.io/My-Portfolio-website/)
  
  --------------
  

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bukola Testimony</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bukola Testimony</h1>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=github,git,aws,html,css,javascript,python,linux,vscode" alt="Tech Stack" /> </p>
 
@@ -31,8 +31,7 @@
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bukola-Testimony&show_icons=true&locale=en&layout=compact" alt="Bukola Testimony" /></p>
  
- 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bukola-Testimony&show_icons=true&locale=en" alt="jmfayard" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bukola-Testimony&show_icons=true&include_all_commits=true&locale=en" alt="Bukola-Testimony" /></p>
  
 [![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bukola-testimony.github.io/My-Portfolio-website/)](https://bukola-testimony.github.io/My-Portfolio-website/) 
 
@@ -43,3 +42,6 @@
 
 
 <img src="https://gpvc.arturio.dev/Bukola-Testimony" alt="profile views">
+
+
+>  ### Show some ❤️ by starring(⭐) some of the repositories 🙂 Thank you !

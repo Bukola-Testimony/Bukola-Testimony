@@ -29,7 +29,7 @@
  
  --------------
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bukola-Testimony&show_icons=true&include_all_commits=true&locale=en" alt="Bukola-Testimony" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bukola-Testimony&show_icons=true&locale=en&layout=compact" alt="Bukola Testimony" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Bukola-Testimony&show_icons=true&include_all_commits=true&locale=en" alt="Bukola-Testimony" />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bukola-Testimony&show_icons=true&locale=en&layout=compact" alt="Bukola Testimony" /></p>
  
 [![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bukola-testimony.github.io/My-Portfolio-website/)](https://bukola-testimony.github.io/My-Portfolio-website/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bukola-testimony-58277b97/)](https://www.linkedin.com/in/bukola-testimony-58277b97/) [![Twitter Badge](https://img.shields.io/badge/-@BukolaTestimony-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/BukolaTestimony)](https://twitter.com/BukolaTestimony)
 

@@ -21,7 +21,7 @@
 #### - 😊 I’m open to opportunities for open source projects, hackathons, internships, and entry-level Cloud Engineering opportunities. 
 #### - 📫 How to reach me: <a href="https://twitter.com/BukolaTestimony">Twitter</a>,  <a href="https://www.linkedin.com/in/bukola-testimony-58277b97/">LinkedIn</a>.  
 #### - 😄 Pronouns: She/her
-#### - ⚡ Fun fact: I am curious and love to learn new things. I try to look for faster and simpler ways to solve a problem.
+#### - ⚡ Fun fact: I am curious and love to learn new things. I try to look for faster and simpler ways to solve a problem. I love photography and editing videos, helps me to create beautiful memories..
 
  --------------
  

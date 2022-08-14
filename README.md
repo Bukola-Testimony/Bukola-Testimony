@@ -42,3 +42,22 @@
 
 
 >  ### Show some ❤️ by starring(⭐) some of the repositories 🙂 Thank you !
+
+
+
+```bash
+$ cal  Display current month calendar
+$ w  Display who is online
+$ uptime  Display how long the system has been running
+```
+```console
+USER@DESKTOP-61BJJV0 MINGW64 ~$ cal  
+Display current month calendar
+USER@DESKTOP-61BJJV0 MINGW64 ~$ w
+ w  Display who is online
+USER@DESKTOP-61BJJV0 MINGW64 ~$ uptime  
+Display how long the system has been running
+```
+
+
+

@@ -3,7 +3,9 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=github,git,aws,html,css,javascript,python,linux,vscode" alt="Tech Stack" /> </p>
 
 ----------------------------------
-[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bukola-testimony.github.io/My-Portfolio-website/)](https://bukola-testimony.github.io/My-Portfolio-website/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bukola-testimony-58277b97/)](https://www.linkedin.com/in/bukola-testimony-58277b97/) [![Twitter Badge](https://img.shields.io/badge/-@BukolaTestimony-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/BukolaTestimony)](https://twitter.com/BukolaTestimony)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bukola-testimony.github.io/My-Portfolio-website/)](https://bukola-testimony.github.io/My-Portfolio-website/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bukola-testimony-58277b97/)](https://www.linkedin.com/in/bukola-testimony-58277b97/) [![Twitter Badge](https://img.shields.io/badge/-@BukolaTestimony-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/BukolaTestimony)](https://twitter.com/BukolaTestimony)<a href="mailto:bukolatestimony1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
 <h3 align="left">I am an HR professional and a Software Developer currently focused on Cloud Engineering. I love to solve problems and also have fun while learning new things. I am an AWS Certified Cloud Practitioner(CLF-CO1). View my badge here: 

@@ -26,11 +26,12 @@
   
 
 #### - 🌱 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-#### - 💡 I’m currently learning Cloud Engineering.
-#### - 😊 I’m open to opportunities for open source projects, hackathons, internships, and entry-level Cloud Engineering opportunities. 
+#### - 💡 I’m currently learning Cloud DevOps Engineering.
+#### - 😊 I’m open to opportunities for open source projects, hackathons, internships, and entry-level Cloud Engineering opportunities.
+#### - 🤓 Ask me about Ansible,Bash Scripting and Terraform
 #### - 📫 How to reach me: <a href="https://twitter.com/BukolaTestimony">Twitter</a>,  <a href="https://www.linkedin.com/in/bukola-testimony-58277b97/">LinkedIn</a>.  
-#### - 😄 Pronouns: She/her
-#### - ⚡ Fun fact: I am curious and love to learn new things. I love photography and editing videos, helps me to create beautiful memories..😄
+#### - 👧 Pronouns: She/her
+#### - 😍 Fun fact: I am curious and love to learn new things. I love photography and editing videos, helps me to create beautiful memories..😄
 
  --------------
  

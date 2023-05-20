@@ -20,8 +20,7 @@
  
  --------------
  
- 
- ### As a beginner, some of my languages are: Python, Javascript, HTML, CSS and Basic Linux bash Scripting.
+ ### Some of my languages are: Python, Javascript, HTML, CSS and Linux bash Scripting.
  
   --------------
   
@@ -31,10 +30,25 @@
 #### - 😊 I’m open to opportunities for open source projects, hackathons, internships, and entry-level Cloud Engineering opportunities. 
 #### - 📫 How to reach me: <a href="https://twitter.com/BukolaTestimony">Twitter</a>,  <a href="https://www.linkedin.com/in/bukola-testimony-58277b97/">LinkedIn</a>.  
 #### - 😄 Pronouns: She/her
-#### - ⚡ Fun fact: I am curious and love to learn new things. I try to look for faster and simpler ways to solve a problem. I love photography and editing videos, helps me to create beautiful memories..😄
+#### - ⚡ Fun fact: I am curious and love to learn new things. I love photography and editing videos, helps me to create beautiful memories..😄
+
+ --------------
+ 
+
+### 👩‍💼💻 Soft skills
 
 
+✅ Organisational skills
 
+✅ Leadership
+
+✅ Problem Solving
+
+✅ Team spirit
+
+✅ Good communication skills
+ 
+ 
  --------------
  
  ### Learn more about me on my [website](https://www.bukolatestimony.me/)
@@ -45,8 +59,8 @@
 | ------------- | ------------- |
  
 
-
 <img src="https://gpvc.arturio.dev/Bukola-Testimony" alt="profile views">
+
 
 
 >  ### Show some ❤️ by starring(⭐) some of the repositories 🙂 Thank you !

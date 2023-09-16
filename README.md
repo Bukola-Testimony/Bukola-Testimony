@@ -20,18 +20,18 @@
  
  --------------
  
- ### Some of my languages are: Python, Javascript, HTML, CSS and Linux bash Scripting.
+ ### Some of my languages are Python, Javascript, HTML, CSS and Linux bash Scripting.
  
   --------------
   
 
 #### - 🌱 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 #### - 💡 I’m currently learning Cloud DevOps Engineering.
-#### - 😊 I’m open to opportunities for open source projects, hackathons, internships, and entry-level Cloud Engineering opportunities.
-#### - 🤓 Ask me about Ansible,Bash Scripting and Terraform
+#### - 😊 I’m open to opportunities for open-source projects, hackathons, internships, and entry-level Cloud Engineering opportunities.
+#### - 🤓 Ask me about Ansible, Bash Scripting and Terraform
 #### - 📫 How to reach me: <a href="https://twitter.com/BukolaTestimony">Twitter</a>,  <a href="https://www.linkedin.com/in/bukola-testimony-58277b97/">LinkedIn</a>.  
 #### - 👧 Pronouns: She/her
-#### - 😍 Fun fact: I am curious and love to learn new things. I love photography and editing videos, helps me to create beautiful memories..😄
+#### - 😍 Fun fact: I am curious and love to learn new things. I love photography and editing videos, helps me create beautiful memories..😄
 
  --------------
  
@@ -60,11 +60,19 @@
 | ------------- | ------------- |
  
 
-<img src="https://gpvc.arturio.dev/Bukola-Testimony" alt="profile views">
 
+## **❤ Views and Followers.**
 
+<a href="https://github.com/Bukola-Testimony/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Bukola-Testimony&color=brightgreen&style=flat-square">
+</a>
+<a href="https://github.com/Bukola-Testimony?tab=followers"><img src="https://img.shields.io/github/followers/Bukola-Testimony?label=Followers&style=social" alt="GitHub Badge"></a>
+
+----------------------
 
 >  ### Show some ❤️ by starring(⭐) some of the repositories 🙂 Thank you !
+
+
 
 
 
